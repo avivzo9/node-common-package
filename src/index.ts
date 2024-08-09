@@ -1,3 +1,4 @@
+// export all
 export * from './errors/badReqError';
 export * from './errors/customError';
 export * from './errors/dbConnectionError';
